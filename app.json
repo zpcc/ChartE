@@ -1,0 +1,9 @@
+{
+  "name": "ChartE",
+  "repository": "https://github.com/zpcc/ChartE",
+  "addons": [
+    {
+      "plan": "heroku-postgresql"
+    }
+  ]
+}
