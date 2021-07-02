@@ -1,0 +1,6 @@
+p {
+  margin-top: revert;
+}
+.table-responsive td {
+  vertical-align: revert;
+}

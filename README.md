@@ -4,6 +4,8 @@
 
 [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/zpcc/ChartE)
 
+目前部署后需要手动初始化数据库（参见 init.sql）
+
 ## Run
 
 ```bash
